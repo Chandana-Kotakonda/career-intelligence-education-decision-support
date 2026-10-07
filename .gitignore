@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large raw datasets
+data/raw/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
